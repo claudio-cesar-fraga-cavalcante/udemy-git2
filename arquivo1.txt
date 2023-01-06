@@ -1,3 +1,5 @@
-Linha 1 adicionada no Branch master <master>
+Linha 1 adicionada no Branch master <master> por claudio
 
-Linha 2 adicionada no Branch teste <master>
+Linha 2 adicionada no Branch master <master> por claudio
+
+Linha 3 adicionada no Branch master <master> por claudio
